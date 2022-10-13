@@ -6,6 +6,8 @@
 
 2. Features used in this project
 (a) Used ScreenToWorldPoint/ WorldToViewportPoint for keeping player on the screen after oob (Out-of-Bound) and touch input.
+<img width="826" alt="2-8" src="https://user-images.githubusercontent.com/103945243/195579293-08f103a8-b180-4003-ad4b-a0e9d055519e.png">
+<img width="824" alt="2-7" src="https://user-images.githubusercontent.com/103945243/195579316-af5488cf-b35b-47be-8823-7e8591545057.png">
 
 
 (b) Used GameOverHandler script for handling events after player dies.
