@@ -29,15 +29,27 @@
 
 <img width="339" alt="2-4" src="https://user-images.githubusercontent.com/103945243/195576798-2ea0425f-5633-4dec-b592-3ada73a03590.png">
 
-3. Extras
+3. Extras & Third Parties
+
 (a) Particle system for Star field in the background.
 
 <img width="1099" alt="Screen Shot 2022-10-13 at 16 51 14" src="https://user-images.githubusercontent.com/103945243/195576987-c9b5ed11-8326-4d56-8d11-eb0420e44aae.png">
 
-(b) 
+(b) Watch rewarded video ads to revive player for only one time gameplay.
 
-4.
+<img width="828" alt="Screen Shot 2022-10-13 at 16 57 59" src="https://user-images.githubusercontent.com/103945243/195580045-b3506013-ee17-479a-b55c-e3d77b7b0517.png">
 
-5.
+<img width="1099" alt="Screen Shot 2022-10-13 at 16 58 44" src="https://user-images.githubusercontent.com/103945243/195580057-3b25a520-47b4-4087-bf9b-cf7594279218.png">
 
-6.
+"Countine" button cannot be interactable after watching rewarded video ads
+
+<img width="1099" alt="Screen Shot 2022-10-13 at 16 58 55" src="https://user-images.githubusercontent.com/103945243/195580075-7e2c8320-bffc-48b1-86e1-e04842d80a71.png">
+
+(c) Using Unity Profiler to analyze which of my scripts or other features are dragging the performace my game down and based on those analysis, the optimizations can be done.
+
+<img width="1151" alt="Screen Shot 2022-10-13 at 14 59 18" src="https://user-images.githubusercontent.com/103945243/195580579-51ece44f-7b68-4b48-8944-0101ee1706eb.png">
+
+Running game profiler directly from Mobile game apk after build.
+
+<img width="1155" alt="Screen Shot 2022-10-13 at 15 02 09" src="https://user-images.githubusercontent.com/103945243/195580517-e6d673c4-f480-4f96-886c-0512e5055c9a.png">
+
